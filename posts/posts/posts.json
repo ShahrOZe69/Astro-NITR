@@ -1,0 +1,19 @@
+[
+    {
+        "post-name": "solar-flares",
+        "heading":"Are the solar flares a threat to humans?",
+        "content": "The sun is climbing towards a peak in its 11-year cycle that it should reach in 2025. There's ample evidence of the sun firing off flares already in pictures and videos from sun-gazing satellites, like NASA's Solar Dynamics Observatory. These were shared extensively by users on Twitter.",
+        "img": "posts/data/solar-flares.png",
+        "date": "07/08/2023",
+        "author": "Shahroze Shahab"
+    },
+        {
+            "post-name": "rath-yatra",
+            "heading":"Recent Posters",
+            "content": "We wish you all a happy Rath Yatra",
+            "img": "posts/data/rath-yatra.png",
+            "date": "07/09/2023",
+            "author": "Shahroze Shahab"
+        }
+    
+]
