@@ -1,6 +1,6 @@
 # Astro-NITR
 
-![ASTRO NITR](https://github.com/ShahrOZe69/Astro-NITR/tree/master/posts/data/istockphoto-512605413-612x612.jpg)
+![ASTRO NITR](/posts/data/istockphoto-512605413-612x612.jpg)
 
 ### Hi there 👋
 - 🔭 I'm a freelancer at Upwork. Checkout my first website [**UP**](https://shahroze69.github.io/Astro-NITR)
