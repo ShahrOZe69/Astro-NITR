@@ -4,3 +4,38 @@
     color: #FF6B00;
 
 }
+
+.blog{
+    display: flex;
+    position: relative;
+    border: 3px solid black;
+    margin-top: 60px;
+    margin-left: 80px;
+    align-items: center;
+    vertical-align: baseline;
+    background-color: rgb(255, 255, 255);
+}
+
+.img{
+    width: 450px;
+    height: 300px;
+    
+}
+
+.blog p{
+    position: relative;
+    vertical-align: baseline;
+   font-size: 30px;
+   margin-left: 35px;
+   margin-top: 0px;
+}
+
+.blog h4{
+    top: 20px;
+    left: 500px;
+    position: absolute;
+    display: block;
+    max-width: 100%;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
